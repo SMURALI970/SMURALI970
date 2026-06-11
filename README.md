@@ -2,7 +2,7 @@
 - I’m interested in fullstack development
 - I’m currently learning artificial intelligence and cybersecurity other boomimg technologies
 - I’m looking to collaborate on building projects  
-- How to reach me muralisrinivas991@gmail.com
+- How to reach me muralisrinivas991@gmail.com / smurali9707@gmail.com
 - Fun fact: ...
 
 <!---
